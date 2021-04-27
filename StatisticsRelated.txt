@@ -1,3 +1,4 @@
+standard_deviation = stddev.P()
 confidence_interval_95% = CONFIDENCE(alpha=0.05,degree_of_freedom,)
 lower bound = mean - confidence_interval_95%
 upper bound = mean + confidence_interval_95%
